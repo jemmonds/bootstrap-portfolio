@@ -1,0 +1,54 @@
+body{
+  margin-top: 50px;
+}
+
+.navbar{
+  background-color: white !important;
+  padding: 25px;
+}
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+    background-color: white;
+  }
+  .navbar-nav{
+    font-size: 20px !important;
+  }
+/* Jumbotron  */
+.jumbotron {
+    background-image: url("/bootstrap-portfolio/images/bluebackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+    font-size: 20px;
+  }
+#titlecontent{
+    text-align: center;
+    padding: 30px;
+    font-size: 30px;
+    margin: 10px;
+}
+.sideAccent {
+    background: lightblue;
+    max-width: 1px;
+  }
+  .card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+.bg-dark {
+background-color: lightblue !important;
+}
+.card1{
+  transition: 0.3s;
+}
+.card1:hover {opacity: 0.6}
+
+a:hover {
+  background-color: grey;
+}
