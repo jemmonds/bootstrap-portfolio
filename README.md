@@ -8,3 +8,9 @@ Welcome to my personal portfolio project! This web page showcases my skills, pre
 - HTML
 - CSS
 - Bootstrap
+
+
+https://jemmonds.github.io/bootstrap-portfolio/
+
+![Alt text](<screenshot nav.png>)
+![Alt text](<screenshot footer.png>)
