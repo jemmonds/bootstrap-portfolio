@@ -56,3 +56,7 @@ background-color: lightblue !important;
 a:hover {
   background-color: grey;
 }
+
+.selfport {
+  max-width: 200px;
+}
